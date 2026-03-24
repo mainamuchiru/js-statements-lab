@@ -20,7 +20,7 @@ function lightscontrol() {
 function soilmoisture(){
     while (soilMoisture < 40) {
         soilMoisture += 5
-        console.log(40)
+        console.log(soilMoisture)
     }
 }
 
